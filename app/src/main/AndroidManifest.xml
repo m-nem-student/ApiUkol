@@ -15,7 +15,19 @@
         android:theme="@style/Theme.ApiUkol"
         tools:targetApi="31">
         <activity
-            android:name=".tf2.tf2Activity"
+            android:name=".history.HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Games.Dota2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Games.Bg3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Games.Cs2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Games.Tf2Activity"
             android:exported="false" />
         <activity
             android:name=".main.MainActivity"

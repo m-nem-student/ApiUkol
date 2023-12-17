@@ -8,7 +8,7 @@
     tools:context=".Games.Tf2Activity">
 
     <TextView
-        android:id="@+id/textViewTf2"
+        android:id="@+id/textViewDota2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="TextView"
